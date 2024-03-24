@@ -1,6 +1,6 @@
 # カタ(kata68k)さんの趣味プログラミング
-
-## Tools
+---
+## ■Tools
 ### CRTCHK.x [[Download]](https://github.com/kata68k/-X68000-CRTCHK.x/releases)ver0.94 (2023/8/18)
 * お使いのCRT/LCD表示チェックができるプログラム（IOCS経由Only） [[詳細ページへ]](https://github.com/kata68k/-X68000-CRTCHK.x) 
 
@@ -19,7 +19,7 @@
 * 入力確認用プログラム（IOCS経由Only） [[詳細ページへ]](https://github.com/kata68k/-X68000-InputCHK)
 
 ---
-
+## ■Games
 ### 「Over Kata」[[Download]](https://github.com/kata68k/X68000/tree/master/Game/OverKata/)	(工事中)
 * 疑似3Dカーレースゲーム [[詳細ページへ]](https://github.com/kata68k/X68000/tree/master/Game/OverKata)
 
@@ -28,7 +28,15 @@
 
 ###  「BINGOでPRO-68k」[[Download]](https://github.com/kata68k/X68000/blob/master/Game/BINGO/BINGO092.7z)	ver0.92(2023/12/29)
 * ビンゴマシーン [[詳細ページへ]](https://github.com/kata68k/X68000/tree/master/Game/BINGO)
-
+---
+## ■活動の範囲
+X(旧Twitter)で毎日、68のことポストしながら皆さんの協力を得てプログラミングしてます。
+下記の順で活動してます。
+１．X(旧Twitter)研究・調査
+２．X68KBBSへ投稿
+３．X(旧Twitter)で期間限定展開
+４．GitHubに登録
+５．気が向いたらZ-CLUBに投稿
 ---
 
 <!--
