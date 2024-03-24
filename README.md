@@ -1,7 +1,7 @@
 # カタ(kata68k)さんの趣味プログラミング
 
 ## Tools
-### CRTCHK.x [[Download]]()
+### CRTCHK.x ver0.94 (2023/8/18)[[Download]](https://github.com/kata68k/-X68000-CRTCHK.x/releases)
 * お使いのCRT/LCD表示チェックができるプログラム（IOCS経由Only） [[詳細ページへ]](https://github.com/kata68k/-X68000-CRTCHK.x) 
 
 ### MACSplay.x  [[Download]]()
