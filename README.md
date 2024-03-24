@@ -4,28 +4,30 @@
 ### CRTCHK.x ver0.94 (2023/8/18)[[Download]](https://github.com/kata68k/-X68000-CRTCHK.x/releases)
 * お使いのCRT/LCD表示チェックができるプログラム（IOCS経由Only） [[詳細ページへ]](https://github.com/kata68k/-X68000-CRTCHK.x) 
 
-### MACSplay.x  [[Download]]()
+### MACSplay.x ver1.06p  [[Download]](https://github.com/kata68k/-X68000-MACSplay.x/releases)
 * X68000のMACSデータを再生するプレイヤーです。ハイメモリ対応 [[詳細ページへ]](https://github.com/kata68k/-X68000-MACSplay.x)
 
-### MACScnv.x   [[Download]]()
+### MACScnv.x ver  [[Download]](https://github.com/kata68k/-X68000-MACScnv.x/releases)
 * MACSデータ作成補助ツール [[詳細ページへ]](https://github.com/kata68k/-X68000-MACScnv.x)
+* [[MACSデータの作り方 テキスト16色ver]](https://github.com/kata68k/-X68000-MACScnv.x/blob/main/doc/MACScnv.md)
 
-### MACScnv2.x  [[Download]]()
+### MACScnv2.x ver [[Download]](https://github.com/kata68k/-X68000-MACScnv2.x/releases)
 * なんちゃって改造版MACSデータ作成補助ツール [[詳細ページへ]](https://github.com/kata68k/-X68000-MACScnv2.x)
+* [[MACSデータの作り方 グラフィックカラーver]](https://github.com/kata68k/-X68000-MACScnv2.x/blob/main/doc_mod/MACScnv.md)
 
-### InputCHK.x  [[Download]]()
+### InputCHK.x ver [[Download]](https://github.com/kata68k/-X68000-InputCHK/releases)
 * 入力確認用プログラム（IOCS経由Only） [[詳細ページへ]](https://github.com/kata68k/-X68000-InputCHK)
 
 ---
 
-### 疑似3Dレースゲーム「Over Kata」 [[Download]]()		
-* [[詳細ページへ]](https://github.com/kata68k/X68000/tree/master/Game/OverKata)
+### 「Over Kata」ver [[Download]](https://github.com/kata68k/X68000/tree/master/Game/OverKata/releases)		
+* 疑似3Dカーレースゲーム [[詳細ページへ]](https://github.com/kata68k/X68000/tree/master/Game/OverKata)
 
-### 戦車でゴルフ「Ball und Panzer Golf」 [[Download]]()	
-* [[詳細ページへ]](https://github.com/kata68k/X68000/tree/master/Game/BattleKata)
+### 「Ball und Panzer Golf」ver [[Download]](https://github.com/kata68k/X68000/tree/master/Game/BattleKata/releases)	
+* 戦車でゴルフ [[詳細ページへ]](https://github.com/kata68k/X68000/tree/master/Game/BattleKata)
 
-### ビンゴマシーン 「BINGOでPRO-68k」 [[Download]]()	
-* [[詳細ページへ]](https://github.com/kata68k/X68000/tree/master/Game/BINGO)
+###  「BINGOでPRO-68k」ver [[Download]](https://github.com/kata68k/X68000/tree/master/Game/BINGO/releases)	
+* ビンゴマシーン [[詳細ページへ]](https://github.com/kata68k/X68000/tree/master/Game/BINGO)
 
 ---
 
