@@ -5,17 +5,19 @@
 * お使いのCRT/LCD表示チェックができるプログラム（IOCS経由Only） [[詳細ページへ]](https://github.com/kata68k/-X68000-CRTCHK.x) 
 
 ### MACSplay.x  [[Download]]()
-* [[詳細ページへ]](https://github.com/kata68k/-X68000-MACSplay.x)
+* X68000のMACSデータを再生するプレイヤーです。ハイメモリ対応 [[詳細ページへ]](https://github.com/kata68k/-X68000-MACSplay.x)
 
 ### MACScnv.x   [[Download]]()
-* [[詳細ページへ]](https://github.com/kata68k/-X68000-MACScnv.x)
+* MACSデータ作成補助ツール [[詳細ページへ]](https://github.com/kata68k/-X68000-MACScnv.x)
 
 ### MACScnv2.x  [[Download]]()
-* [[詳細ページへ]](https://github.com/kata68k/-X68000-MACScnv2.x)
+* なんちゃって改造版MACSデータ作成補助ツール [[詳細ページへ]](https://github.com/kata68k/-X68000-MACScnv2.x)
 
 ### InputCHK.x  [[Download]]()
-* [[詳細ページへ]](https://github.com/kata68k/-X68000-InputCHK)
+* 入力確認用プログラム（IOCS経由Only） [[詳細ページへ]](https://github.com/kata68k/-X68000-InputCHK)
+
 ---
+
 ### 疑似3Dレースゲーム「Over Kata」 [[Download]]()		
 * [[詳細ページへ]](https://github.com/kata68k/X68000/tree/master/Game/OverKata)
 
