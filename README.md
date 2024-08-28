@@ -29,7 +29,7 @@
 ###  「BINGOでPRO-68k」[[Download]](https://github.com/kata68k/X68000/blob/master/Game/BINGO/BINGO092.7z)	ver0.92(2023/12/29)
 * ビンゴマシーン [[詳細ページへ]](https://github.com/kata68k/X68000/tree/master/Game/BINGO)
 
-###  「スイカタゲーム」[[Download]](https://github.com/kata68k/X68000/blob/master/Game/SuiKata/SUIKATA006.LZH)	ver0.0.6(2024/06/10)
+###  「スイカタゲーム」[[Download]](https://github.com/kata68k/X68000/blob/master/Game/SuiKata/SUIKATA010.LZH)	ver0.1.0(2024/08/28)
 * 落ちモノ合体進化パズル [[詳細ページへ]](https://github.com/kata68k/X68000/tree/master/Game/SuiKata)
 
 ---
