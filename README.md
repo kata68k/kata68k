@@ -18,6 +18,9 @@
 ### InputCHK.x [[Download]](https://github.com/kata68k/-X68000-InputCHK/releases)ver1.0.4 (2024/3/23) 
 * 入力確認用プログラム（IOCS経由Only） [[詳細ページへ]](https://github.com/kata68k/-X68000-InputCHK)
 
+### PXtemp.x
+* Excel風なPhantomXの温度測定ツール
+
 ---
 ## ■Games
 ### 「Over Kata」[[Download]](https://github.com/kata68k/X68000/tree/master/Game/OverKata/)	(工事中)
@@ -31,6 +34,9 @@
 
 ###  「スイカタゲーム」[[Download]](https://github.com/kata68k/X68000/blob/master/Game/SuiKata/SUIKATA012.LZH)	ver0.1.2(2024/10/07)
 * 落ちモノ合体進化パズル [[詳細ページへ]](https://github.com/kata68k/X68000/tree/master/Game/SuiKata)
+
+###  「X68ZKeeper」[[Download]](https://github.com/kata68k/X68000/blob/master/Game/X68ZKeeper/X68ZKP004.LZH)	ver0.0.4(2025/06/07)
+* 制限時間内にパネルを３つ揃えて消すパズルゲーム [[詳細ページへ]](https://github.com/kata68k/X68000/tree/master/Game/X68ZKeeper)
 
 ---
 ## ■活動の範囲
