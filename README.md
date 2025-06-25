@@ -35,7 +35,7 @@
 ###  「スイカタゲーム」[[Download]](https://github.com/kata68k/X68000/blob/master/Game/SuiKata/SUIKATA012.LZH)	ver0.1.2(2024/10/07)
 * 落ちモノ合体進化パズル [[詳細ページへ]](https://github.com/kata68k/X68000/tree/master/Game/SuiKata)
 
-###  「X68ZKeeper」[[Download]](https://github.com/kata68k/X68000/blob/master/Game/X68ZKeeper/X68ZKP004.LZH)	ver0.0.4(2025/06/07)
+###  「X68ZKeeper」[[Download]](https://github.com/kata68k/X68000/blob/master/Game/X68ZKeeper/X68ZKP006.LZH)	ver0.0.6(2025/06/25)
 * 制限時間内にパネルを３つ揃えて消すパズルゲーム [[詳細ページへ]](https://github.com/kata68k/X68000/tree/master/Game/X68ZKeeper)
 
 ---
