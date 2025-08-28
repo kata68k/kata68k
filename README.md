@@ -21,8 +21,8 @@
 ### PXtemp.x
 * Excel風なPhantomXの温度測定ツール
   
-### STG68K_CNV.X  
-* 「SHOOTING 68K」のデータを好きな画像に差し替えるツール  
+### STG68K_CNV.X [[Download]](https://github.com/kata68k/-X68000-STG68k_CNV.x/releases)ver0.0.2 (2025/8/28)
+* 「SHOOTING 68K」のデータを好きな画像に差し替えるツール  [[詳細ページへ]](https://github.com/kata68k/-X68000-STG68k_CNV.x)
 ---
 ## ■Games
 ### 「Over Kata」[[Download]](https://github.com/kata68k/X68000/tree/master/Game/OverKata/)	(工事中)
