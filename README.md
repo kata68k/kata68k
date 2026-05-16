@@ -23,6 +23,10 @@
   
 ### STG68K_CNV.X [[Download]](https://github.com/kata68k/-X68000-STG68k_CNV.x/releases)ver0.0.2 (2025/8/28)
 * 「SHOOTING 68K」のデータを好きな画像に差し替えるツール  [[詳細ページへ]](https://github.com/kata68k/-X68000-STG68k_CNV.x)
+
+### sp512p.x [[Download]](https://github.com/kata68k/X68000_Tools_sp512p.x/releases)	ver1.0.0(2026/05/16)
+* CYNTHIA64専用のスプライトで動画再生ツール [[詳細ページへ]](https://github.com/kata68k/X68000_Tools_sp512p.x)
+
 ---
 ## ■Games
 ### 「Over Kata」[[Download]](https://github.com/kata68k/X68000/tree/master/Game/OverKata/)	(工事中)
