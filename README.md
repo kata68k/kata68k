@@ -27,6 +27,9 @@
 ### sp512p.x [[Download]](https://github.com/kata68k/X68000_Tools_sp512p.x/releases)	ver1.0.0(2026/05/16)
 * CYNTHIA64専用のスプライトで動画再生ツール [[詳細ページへ]](https://github.com/kata68k/X68000_Tools_sp512p.x)
 
+### sntp.x [[Download]](https://github.com/kata68k/sntp/releases))	ver1.0(2026/09/12)
+* X68000 / Human68k からネットワーク上の SNTP/NTP サーバへ問い合わせ、現在時刻を取得するための SNTP クライアントです。 [[詳細ページへ]](https://github.com/kata68k/sntp)
+
 ---
 ## ■Games
 ### 「Over Kata」[[Download]](https://github.com/kata68k/X68000/tree/master/Game/OverKata/)	(工事中)
